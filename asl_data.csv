@@ -1,0 +1,598 @@
+﻿Level,Number,Word
+1,1,"I, me"
+1,2,"see, vision sight"
+1,3,you
+1,4,hear
+1,5,"think, mind brain, sense, mental, thinker"
+1,6,"good, well"
+1,7,"now, this, present"
+1,8,"go, going attend, went"
+1,9,"with along with, amid, accompany"
+1,10,"boy, male"
+1,11,"girl, female"
+1,12,"he, she it, him, her, that, this, there, over there, point"
+1,13,"they, those, them"
+1,14,us
+1,15,we
+1,16,"that, this, it, which"
+1,17,"come, come over, coming, return"
+1,18,"look, look at, watch, observe"
+1,19,"tree, trees, forest, woods, jungle"
+1,20,"bird, chicken"
+1,21,"in, within"
+1,22,"drink, beverage, drinker"
+1,23,"eat food, eater"
+1,24,"play, frolic, party, player"
+1,25,"house, cottage, shed, barn, dwelling"
+1,26,"time, o'clock, date"
+1,27,"morning, dawn"
+1,28,"night, evening"
+1,29,"later, after awhile, after a bit"
+2,30,dog
+2,31,cat
+2,32,"big, *great, huge, large"
+2,33,"little, small short"
+2,34,"small, little, tiny"
+2,35,"tall, high, height, adult"
+2,36,"sit, sit down"
+2,37,"like, favor, fond of"
+2,38,don't like
+2,39,school
+2,40,college
+2,41,"class, *family, *group, *organization, *team, *association, *society"
+2,42,noon
+2,43,afternoon
+2,44,day
+2,45,all day
+2,46,"all night, overnight"
+2,47,"daily, everyday, every day"
+2,48,tonight
+2,49,today
+2,50,weekend
+2,51,this
+2,52,these
+2,53,"my, mine"
+2,54,"your, his, her, hers, its"
+2,55,"yours, their, theirs"
+2,56,"our, ours"
+2,57,myself
+2,58,"himself, herself, yourself, itself"
+2,59,ourselves
+2,60,"themselves, yourselves"
+3,61,bad
+3,62,"clean, nice, neat"
+3,63,clean up
+3,64,"into, enter, entrance"
+3,65,to
+3,66,from
+3,67,"on, upon, onto, on top of"
+3,68,off
+3,69,"near, by, against, close"
+3,70,for
+3,71,"get, acquire, receive, obtain"
+3,72,without
+3,73,"not, don't, doesn't"
+3,74,"no, refusal"
+3,75,"yes, affirmative"
+3,76,"work, task, *job, assignment, *industry, *function, *duty"
+3,77,want
+3,78,don't want
+3,79,"sleep, asleep"
+3,80,water
+3,81,"soda, pop"
+3,82,"Pepsi, Italy"
+3,83,"Coca-Cola, Coke, vaccination, injection"
+3,84,tea
+3,85,"coffee, java"
+3,86,chocolate
+3,87,vanilla
+4,88,"color, colorful, crayons"
+4,89,pink
+4,90,black
+4,91,brown
+4,92,tan
+4,93,red
+4,94,white
+4,95,yellow
+4,96,purple
+4,97,blue
+4,98,green
+4,99,orange
+4,100,"silver, shiny, sharp, bright"
+4,101,gold
+4,102,"person, *individual, figure human"
+4,103,"people, citizens"
+4,104,sister
+4,105,brother
+4,106,aunt
+4,107,uncle
+4,108,"grandmother, grandma"
+4,109,"grandfather, grandpa, granddad"
+4,110,cousin
+4,111,"baby, infant"
+4,112,"father, dad, pop"
+4,113,"mother, mom"
+4,114,"step (mother, father), next, turn, your turn, go ahead"
+4,115,"foster 9mother, father), false, fake, copy"
+4,116,"child, minor"
+4,117,children
+4,118,"wife, spouse"
+4,119,"husband, spouse"
+4,120,"mother and father, *parents"
+5,121,daughter
+5,122,son
+5,123,roommate
+5,124,"share, divide up, partner"
+5,125,"single, *bachelor, *twins"
+5,126,deaf
+5,127,hard of hearing
+5,128,American Sign Language ASL
+5,129,senior citizen
+5,130,"friend, close"
+5,131,kid
+5,132,"strange, stranger, odd, peculiar, queer"
+5,133,"boss, captain, coach, head, officer, employer"
+5,134,nephew
+5,135,niece
+5,136,"police, officer, policeman, cop, security, sheriff, *detective, guard"
+5,137,"sweetheart, darling, girlfriend, boyfriend"
+5,138,"secretary, pencil"
+5,139,"two of us, we"
+5,140,"marry, wed, wedding, marriage"
+5,141,divorce
+5,142,"separate, apart, split up"
+5,143,"man, male, guy, gentleman"
+5,144,"woman, female, lady"
+5,145,"doctor, physician"
+5,146,nurse
+5,147,"fireman, firefighter"
+5,148,"social work, social worker"
+5,149,"teach, taught,*educate, *instruct, *tutor, *education, teacher, professor, *instructor"
+5,150,"judge, justice, judge (person), court"
+6,151,"warm, balmy"
+6,152,"hot, stifling, muggy"
+6,153,"cold, chilly, shiver"
+6,154,"cold, virus, bug, head cold"
+6,155,"stuck up, cold, snooty, aloof, sophisticated"
+6,156,"help, assist, aid, give a hand"
+6,157,"plenty, enough, sufficient, adequate"
+6,158,"understand, get it, comprehend, see"
+6,159,"have, has, had, possess, own"
+6,160,"right, all right, privilege"
+6,161,"right, correct, proper, appropriate, accurate"
+6,162,"right, to the right, right-side"
+6,163,"happy, glad, joyful, cheerful"
+6,164,"here, present"
+6,165,"left, to the left, left side"
+6,166,"left, abandon, leave behind, leave, rest, remain, drop off, leftovers"
+6,167,"leave, depart, go, left"
+6,168,"mistake, wrong, error"
+6,169,"car, automobile"
+6,170,garage
+6,171,"drive, drove, steer"
+6,172,"trailer, manufactured home"
+6,173,"motorcycle, bike"
+6,174,"train, railroad track, locomotive"
+6,175,subway
+6,176,helicopter
+6,177,"airplane, plane, flight, air force, pilot (person)"
+6,178,"fly, take off, soar"
+6,179,"fly, wing, flutter"
+7,180,"truck, bus"
+7,181,traffic
+7,182,"gasoline, gas"
+7,183,"will, *future"
+7,184,"can, able, could"
+7,185,"cannot, can't unable"
+7,186,"possible, can"
+7,187,"impossible, not possible"
+7,188,"maybe, perhaps, may, might, probably"
+7,189,"do, doing, did, action, act, activity, *behave, *behavior"
+7,190,"don't doesn't, didn't', won't. isn't, not"
+7,191,"sentence, *language, *captions"
+7,192,"story, tale, mention, message"
+7,193,closed captions
+7,194,"say, said"
+7,195,"move, relocate, shift, motion"
+7,196,"put, place, lay"
+7,197,"give, donate, hand, offer, grand, award, contribute"
+7,198,"read, go through"
+7,199,"who?, whose? Whom"
+7,200,when?
+7,201,whey?
+7,202,how?
+7,203,which?
+7,204,where?
+7,205,"how much, how many?"
+7,206,"what?, pardon me?, come again?"
+7,207,"what, itemize, what?"
+8,208,Monday
+8,209,Tuesday
+8,210,Wednesday
+8,211,Thursday
+8,212,Friday
+8,213,Saturday
+8,214,Sunday
+8,215,"long, long-time"
+8,216,"past, before, ago, used to, ever, last"
+8,217,year
+8,218,last year
+8,219,next year
+8,220,"every year, yearly, annual, annually"
+8,221,month
+8,222,calendar
+8,223,last month
+8,224,monthly
+8,225,weekend
+8,226,"weekly, every week"
+8,227,next week
+8,228,last week
+8,229,yesterday
+8,230,tomorrow
+8,231,"agree, think the same"
+8,232,"look at me, watch me"
+8,233,"please, like, appreciate"
+8,234,"thank you, thanks, thank, you're welcome"
+8,235,hour 
+8,236,second
+8,237,"minute, in a minute, in a second, wait a minute."
+9,238,"while, during"
+9,239,"former, previous, old, once upon a time"
+9,240,first week (of the month)
+9,241,second week (of the month)
+9,242,third week (of the month)
+9,243,fourth week (of the month)
+9,244,"every now and then, periodically"
+9,245,"since, up to now, has been, all along, ever since"
+9,246,"late, not yet, have not, yet"
+9,247,"guess, assume, estimate"
+9,248,"hide, hid, conceal"
+9,249,"find, discover, locate, find out"
+9,250,"learn, student"
+9,251,"keep, save, store"
+9,252,"continue, last, keep, permanent, maintain"
+9,253,"still, on going"
+9,254,"sometimes, once in a while, occasionally"
+9,255,"ponce, one time"
+9,256,"some, *part, *piece, section, portion"
+9,257,"cut, scissors, cut out"
+9,258,"fire, cut, expel, terminate"
+9,259,"cut, wound, scratch"
+9,260,"cut, miss, absent, gone, skip, not attend"
+9,261,"gone, missing, disappeared, not hear"
+9,262,"break, intermission, halftime"
+9,263,"send, mail, *refer"
+9,264,"paper, tissue"
+9,265,"file, folder"
+9,266,"write, *note, writer (person)"
+9,267,pen
+10,268,most
+10,269,"course, subject, lesson"
+10,270,Internet
+10,271,e-mail
+10,272,"fax, faxed"
+10,273,"message, send e-mail"
+10,274,computer
+10,275,"keyboard, type"
+10,276,mouse
+10,277,calculator
+10,278,"text, text message, texting"
+10,279,"scan, scanner"
+10,280,download
+10,281,video relay
+10,282,"divide, split"
+10,283,"subtract, take away, deduct, eliminate, remove"
+10,284,"negative, subtract, minus"
+10,285,"positive, plus, add, advantage, cross"
+10,286,"add, addition, additional"
+10,287,"sum, total, all, comes to add"
+10,288,"no, none, not any"
+10,289,nothing
+10,290,"talk, chat, chatting, conversation"
+10,291,"communication, communicate, *negotiation, *negotiate"
+10,292,"communication breakdown, miscommunication"
+10,293,"license, permit"
+10,294,"license expired, date expired, expired"
+10,295,"certification, certificate, certified"
+11,296,"Empower, empowerment"
+11,297,automatic
+11,298,"suspend, hold up, suspension"
+11,299,"allow, admit, *Permit, *let, *permission"
+11,300,"admit, confess, grant"
+11,301,"welcome, invite, hire, admit"
+11,302,"long, length, long-measure"
+11,303,"buy, purchase, bought"
+11,304,"sell, sold, get rid of"
+11,305,"store, shop, market, storehouse, warehouse, clerk (person)"
+11,306,"home, residence, habitat"
+11,307,"name, person's name"
+11,308,"call, named, nickname"
+11,309,"call, call on, summon, get"
+11,310,"call, telephone, phone"
+11,311,"call, yell, scream, shout, howl"
+11,312,"cell phone, mobile phone"
+11,313,"visit, visitor (person)"
+11,314,"improve, improvement, progress, advance, gain"
+11,315,"smell, odor, scent"
+11,316,"awful, terrible, horrible, danger, ugly, horrific, terrific"
+11,317,"pretty, beautiful, lovely"
+11,318,"ugly, awful"
+11,319,"make, *create, *produce, form, manufacture"
+11,320,"make, force, made"
+11,321,"make, cause"
+11,322,"blind sightless, visually impaired"
+11,323,"few, several, a number of"
+12,324,"again, repeat, over"
+12,325,"problem, difficult, hard, rough"
+12,326,"kidding, tease, playing with, joking, kid"
+12,327,"fool, trick, take advantage of"
+12,328,"in front of, before, confront, face"
+12,329,"before, prior to, previous to"
+12,330,"from now on, after, henceforth"
+12,331,"fix, repair"
+12,332,"meet, confront, met, face, address"
+12,333,"next, after"
+12,334,believe
+12,335,"don't believe, doubt, unsure, skeptical"
+12,336,"mad, angry, anger, cross"
+12,337,"furious, hot"
+12,338,"sad, unhappy, morose, tragic"
+12,339,I love you
+12,340,"love, lover (person)"
+12,341,"chase, after"
+12,342,"finish, did, over, done, complete, already, through"
+12,343,"over, finish, done, *end, *conclusion, *result"
+12,344,"city, town, community, village"
+12,345,"hotel, motel"
+12,346,"live, life, *address, residence"
+12,347,many
+12,348,"act, play, drama, show, performance, theater, actor (person), actress (person)"
+12,349,"through, passage"
+12,350,"first, original"
+12,351,"new, original, *fresh"
+13,352,"interest, interested, interesting, appeals"
+13,353,"fascinating, fascinated"
+13,354,"bored, boring, boredom"
+13,355,"dry, towel, not wet, not interesting, bored, *desert"
+13,356,"place, position, *location, *area, *region, where, locale, setting, site"
+13,357,"ask, request, inquire"
+13,358,question
+13,359,word
+13,360,vocabulary
+13,361,"need, necessary, should supposed to"
+13,362,"must, have to"
+13,363,"wish, long for, desire"
+13,364,"hungry, starve"
+13,365,listen
+13,366,"listen, hear something, taking in, auditory, take in auditorally"
+13,367,"take in visually, visually"
+13,368,"speech, oral, speechreading, lipreading, read lips"
+13,369,"hearing aid, aid (behind-the-ear)"
+13,370,"hearing aid, aid (in-the-ear)"
+13,371,earmold
+13,372,cochlear implant
+13,373,"loud, noise, sound"
+13,374,"under, beneath, below"
+13,375,"less than, under, below"
+13,376,"increase, raise, gain, jump, add to"
+13,377,"look for, search, hunt"
+13,378,"look, appear, appearance, face, look-like"
+13,379,more
+14,380,"regardless, anyway, nevertheless, it doesn't matter, anyhow, still"
+14,381,"each, every"
+14,382,everything
+14,383,"everyone, everybody"
+14,384,"obey, mind"
+14,385,"think about, *wonder, think over, consider"
+14,386,"complain, object, mind, care, grievance, objection, protest"
+14,387,"stop, halt, cut it out, quit"
+14,388,"hope, expect, anticipate"
+14,389,any
+14,390,heavy
+14,391,"light, not-heavy"
+14,392,"light, bulb"
+14,393,"give up, surrender, quit"
+14,394,"write down, document, record, put down"
+14,395,"clear, obvious, light, bright"
+14,396,"bright, clever, smart, intelligent, gifted"
+14,397,"smart, sharp"
+14,398,hair
+14,399,cheek
+14,400,skin
+14,401,"foot, feet"
+14,402,hand
+14,403,chest
+14,404,head
+14,405,"body, *health, *physical"
+14,406,heart
+14,407,"back, back-anatomy"
+14,408,breast
+14,409,arm
+14,410,voice
+14,411,abdomen (point)
+14,412,butt (point)
+14,413,chin (point)
+14,414,elbow (point)
+14,415,eye (point)
+14,416,eyebrow (point)
+14,417,finger (point)
+14,418,forehead (point)
+14,419,knee (point)
+14,420,nose (point)
+14,421,shoulder (point)
+14,422,teeth (point)
+14,423,thigh (point)
+14,424,thumb (point)
+14,425,wrist (point)
+15,426,"silly, foolish, cut up, ridiculous, fool (person)"
+15,427,fault
+15,428,"responsible, obligation, charge, duty, in charge of"
+15,429,"funny, humorous"
+15,430,"funny, humorous"
+15,431,"hold, grip, keep"
+15,432,"favorite, prefer, rather, preference"
+15,433,"little bit, little"
+15,434,"kill, murder"
+15,435,"feel, emotions, sense, figure, sensation"
+15,436,"refuse, won't, decline"
+15,437,"decline, turn down, reject"
+15,438,"good, way to go, yes"
+15,439,gray
+15,440,"order, command, direct"
+15,441,"dismiss, lay off, excused, release"
+15,442,"excuse, excuse me, pardon, forgive"
+15,443,"a lot, much lots, amount"
+15,444,"small amount, small quantity"
+15,445,"large amount, large quantity"
+15,446,"stand, on your fee"
+15,447,"kneel, kneel down"
+15,448,"jump for joy, excited"
+15,449,"get up, stand up"
+15,450,"great, fantastic, wonderful, marvelous, terrific"
+15,451,"enthusiasm, enthusiastic, anxious, motivated, eager, industrious"
+15,452,"nervous, anxious"
+15,453,"worry, anxious"
+16,454,"fine, well, good health"
+16,455,"don't care, don't mind"
+16,456,"nosy, prying"
+16,457,"young, youthful"
+16,458,"old, age, elderly"
+16,459,"hard, solid, intense"
+16,460,"soft, spongy, tender"
+16,461,"fall, autumn"
+16,462,spring
+16,463,summer
+16,464,winter
+16,465,"wet, moist, damp, humid"
+16,466,"clouds, cloudy"
+16,467,"sunshine, sunny, sunlight"
+16,468,sun
+16,469,moon
+16,470,weather
+16,471,"snow, snowfall"
+16,472,"rain, rainfall, drizzle"
+16,473,"wind, windy, breeze"
+16,474,"smoke, fog"
+16,475,hurricane
+16,476,storm
+16,477,"thunder, rumble"
+16,478,lightning
+16,479,tornado
+16,480,"dark, darkness"
+16,481,"sunset, twilight"
+16,482,"sunrise, dawn"
+16,483,early
+17,484,"check, check off, mark"
+17,485,"check, bank check, draft"
+17,486,"check, investigate, inspect"
+17,487,"cancel, correct, criticize, call off, check"
+17,488,both
+17,489,together
+17,490,"run away, escape, flee, take off, run off, flight, sprint"
+17,491,"run, manage, control, direct, govern, in charge, rule, manager (person)"
+17,492,"run, jog"
+17,493,"run, runny nose, running"
+17,494,"run, liquid, drip"
+17,495,"run, complete, contest, race, competition, athletics, sports"
+17,496,"run, running, operate, work"
+17,497,recycle
+17,498,wine
+17,499,"beer, brew"
+17,500,"never, not at all"
+17,501,"happen, occur, event"
+17,502,"walk, stroll, step"
+17,503,"willing, offer"
+17,504,"sick, disgusting, nauseous"
+17,505,"high, stoned, altitude"
+17,506,"cry, cries, tears, weep"
+17,507,"then, *or, *nor"
+17,508,"thank you, thanks, thank, you're welcome"
+17,509,ticket
+17,510,"unfair, worthless, insignificant"
+17,511,"frustrated, frustration"
+17,512,"vicinity, approximately, about, around, near, in the area"
+18,513,"about, concerning, regarding"
+18,514,"arrive, get, reach"
+18,515,"art, artwork, draw, illustrations, artist (person)"
+18,516,"know, recognize"
+18,517,"don't know, unknown"
+18,518,"aware, knowledge, familiar"
+18,519,"away, go away"
+18,520,"wall, barrier"
+18,521,"become, get"
+18,522,"drop, let go of, let fall"
+18,523,better
+18,524,best
+18,525,blood
+18,526,"tell, told, reveal"
+18,527,"tell me, told me"
+18,528,"busy, business"
+18,529,"close, shot"
+18,530,open
+18,531,"insult, put one down"
+18,532,"laugh at, ridicule, make fun of, mock"
+18,533,"nothing to it, insignificant, minor"
+18,534,"different, differ, differently, not the same"
+18,535,"disobey, militant, strike"
+18,536,"either, neither"
+18,537,"vote, elect, election"
+18,538,"evidence, proof, confirmation"
+18,539,"what's up what's going on, event"
+18,540,"even, fair, tie, equal, just, draw"
+19,541,"incline, tendency, inclined, tend"
+19,542,"whiskey, liquor"
+19,543,"take, remove, take you"
+19,544,"take, take up, start, begin"
+19,545,"drop, give up, discontinue, quit"
+19,546,"microphone, public address system"
+19,547,"rest, relax"
+19,548,very
+19,549,"until, pending"
+19,550,"surprise, amazed, astonished"
+19,551,"start, begin, commence, initiate"
+19,552,"blow up, blow one's top, temper, mad"
+19,553,"all, whole, total, complete, entire"
+19,554,"sorry, apologize, unfortunate"
+19,555,"enjoy, pleasure, enjoyable, joy, appreciate"
+19,556,"full, fill, complete, total"
+19,557,"last, final"
+19,558,"prize, award, trophy"
+19,559,"predict, foretell, forecast, prophesy, foresee"
+19,560,"forget, forgot, disregard"
+19,561,"slipped my mind, a thought disappeared"
+19,562,"waste, throw away, squander"
+19,563,second
+19,564,third week (of the month)
+19,565,fourth week (of the month)
+19,566,fifth
+19,567,"slow, slowly"
+19,568,take me
+19,569,"tie, knot"
+19,570,"trust, faith confidence, confident"
+20,571,"pay, payment"
+20,572,"dollar, buck"
+20,573,credit card
+20,574,"money, *funds, *finance, *budget, *economy"
+20,575,cents
+20,576,"twenty-five cents, quarter"
+20,577,"ten cents, dime"
+20,578,"fifty cents, half-dollar"
+20,579,"expensive, costly, high"
+20,580,"spend, pay out"
+20,581,"shopping, shop"
+20,582,interest (money)
+20,583,"idea, opinion"
+20,584,"inside, indoors"
+20,585,"out, outside, outdoors, exterior, external"
+20,586,turn off
+20,587,turn on
+20,588,"preach, preacher (person), minister (person)"
+20,589,"pray, prayers, worship"
+20,590,heaven
+20,591,"church, place of worship"
+20,592,"temple, place of worship"
+20,593,"religion, religious"
+20,594,Jesus
+20,595,God
+20,596,"Christ, Christian"
+20,597,"Jewish, Judaism"
